@@ -11,3 +11,7 @@ At the core of the system is a **self-consistency** mechanism, which generates m
 
 ### Tech Stack  
 Python · sentence-transformers · FAISS · transformers · Mistral-7B-Instruct · cosine similarity · Streamlit · logging · pytest · GitHub Actions · Docker
+
+
+Project layout:
+Set up venv, creat requirements and install, logger system, build out ingest_data.py etc., .env config, CI, tests, Docker
